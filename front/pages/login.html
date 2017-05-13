@@ -1,0 +1,25 @@
+<div class="col-7" style="height:100%"></div>
+<div class="col-4">
+	<section class="container ">
+		<div class="login">
+		  <h1 id="login_h1">Вход</h1>
+		  <form>
+			<p><input type="text" name="login" value="" placeholder="Username"></p>
+			<p><input type="password" name="password" value="" placeholder="Password"></p>
+			<p class="submit"><input id="login" type="button" name="commit" value="Вход в системата"></p>
+		  </form>
+		</div>
+
+		<div class="login-help">
+		  <p>Forgot your password? <a href="#" id="reset" data-page="resetPassword">Click here to reset it</a>.</p>
+		</div>
+	  </section>
+</div>
+<div class="col-1" style="height:100%"></div> 
+  <script>
+  
+	$("#reset").click(function(e){
+		loadHTML( "resetPassword" );
+	});
+  
+  </script>

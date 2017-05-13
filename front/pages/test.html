@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<style>
+	
+	.labels{
+		display: inline-block;
+		border: 1px solid black;
+	}
+	.labels label{
+		display: block;
+		border: 1px solid black;
+		margin: 10px;
+	}
+	.inputs{
+		border: 1px solid black;
+		width: 300px;
+		display: inline-block;
+	}
+	.inputs input{
+	border: 1px solid black;
+		margin: 10px;
+	}
+	
+	</style>
+
+
+</head>
+<body>
+<div class="registration">
+<div id="header">
+<h1>Регистрация</h1>
+</div>
+<form id="regForm">
+   <div class="labels">
+	<label for="user_label">
+		<span>Потребителско име: </span>
+	</label>
+	<label for="user_label">
+		<span>Потребителско име: </span>
+	</label>
+	<label for="user_label">
+		<span>Потребителско име: </span>
+	</label>
+	<label for="user_label">
+		<span>Потребителско име: </span>
+	</label>
+   </div>
+   <div class="inputs">
+		<input  id="user_label" type="text" name="username" value="" placeholder="Username">
+		<input  id="user_label" type="text" name="username" value="" placeholder="Username">
+		<input  id="user_label" type="text" name="username" value="" placeholder="Username">
+		<input  id="user_label" type="text" name="username" value="" placeholder="Username">
+   </div>
+   
+   
+   
+   
+   
+   <p><label for="pass_label">Парола: </label> <input id="pass_label" type="password" name="password" value="" placeholder="Password"></p>
+   <p><label for="repeat_label">Повторете паролата: </label> <input id="repeat_label" type="password" name="passwordRepeat" value="" placeholder="Password"></p>
+   <p><label for="firstName">Име: </label> <input id="firstName" type="text" name="firstName" value="" placeholder="Name"></p>
+   <p><label for="lastName">Фамилия: </label> <input id="lastName" type="text" name="lastName" value="" placeholder="Last Name"></p>
+   <p><label for="email">Email адрес: </label> <input id="email" type="text" name="email" value="" placeholder="Email"></p>
+   <p><label for="address">Адрес: </label> <input id="address" type="text" name="address" value="" placeholder="Address"></p>
+   <p class="submit"><input id="submit" type="button" name="commit" value="Ок"> <input id="cancel" type="button" name="exit" value="Отказ"></p>
+   
+   </form>
+</div>
+</body>
+</html>

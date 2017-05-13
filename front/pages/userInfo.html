@@ -1,0 +1,41 @@
+﻿<div class="col-3" style="height:100%"></div>
+<div class="col-6">
+	<div id="formContainer">
+	<div id="headerContainer">
+		<span>Потребителска информация</span> 
+		<input id="edit" type="button" name="edit" value="Промени">
+	</div>
+		<div id="innerContainer">
+			  <div class="inputRowWrapper"><label><span>Име: </span></label><input id="firstName" type="text" name="firstName" value="" disabled="disabled"></div>
+			  <div class="inputRowWrapper"><label><span>Фамилия: </span></label><input id="lastName" type="text" name="lastName" value="" disabled="disabled"></div>
+			  <div class="inputRowWrapper"><label></span>Адрес: </span></label><input id="address" type="text" name="address" value="" disabled="disabled"></div>
+			  <div class="inputRowWrapper"><label><span>Имейл:  </span></label><input id="email" type="text" name="email" value="" disabled="disabled"></div>
+			<div id="formChangePasswordHeader" class="headerContainer"><span>Смяна на парола</span></div>
+
+			<div class="inputRowWrapper"><label for="pass_label"></span>Парола: </span></label><input id="pass_label" type="password" name="passwordUpdate" value="" disabled="disabled"></div>
+			<div class="inputRowWrapper"><label for="repeat_label"><span>Повторете паролата:  </span></label><input id="repeat_label" type="password" name="passwordRepeatUpdate" value="" disabled="disabled"></div>
+			<div class="buttons">
+				<input id="saveUpdate" type="button" name="commit" value="Съхрани" disabled="disabled">
+			</div>
+		</div>
+	</div>
+</div>
+<div class="col-3"></div>
+<script>
+$('.inputRowWrapper input').each(function(i, v){
+	var name = $(v).attr('name');
+	$(v).attr('value', userInfo[name]);
+});
+
+$("#edit").click(function(){
+		
+	$('.inputRowWrapper input').each(function(i, v){
+		$(v).removeAttr("disabled");
+	});
+	
+	$("#saveUpdate").removeAttr("disabled");
+	$("#edit").attr("disabled", "disabled");
+	
+});
+
+</script>

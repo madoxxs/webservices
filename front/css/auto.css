@@ -1,0 +1,273 @@
+body{
+
+}
+
+.col-8{
+	height: auto;
+}
+
+.policyNo{
+    background-color:#fff;
+    text-align:center;	
+}
+
+.vehicleA{
+	box-sizing: border-box;
+	border-right: 10px solid #083747;
+	border-left: 3px solid #083747;
+}
+
+.vehicleB{
+	box-sizing: border-box;
+	border-left: 10px solid #FBBC05;
+	border-right: 3px solid #FBBC05;
+}
+
+.circumstances{
+	box-sizing: border-box;
+	height: 100%;
+
+}
+
+.circumstances h3{
+	margin:0px;
+	padding: 0px;
+	text-align: center;
+	color: #fff;
+	height: 35px;
+	line-height: 35px;
+	border-bottom: 2px solid #083747;
+}
+
+.vehicleA h3{
+	margin:0px;
+	padding: 0px;
+	text-align: center;
+	color: #fff;
+	background-color: #083747;
+	height: 35px;
+	line-height: 35px;
+}
+
+.vehicleB h3{
+	margin:0px;
+	padding: 0px;
+	text-align: center;
+	color: #083747;
+	background-color: #FBBC05;
+	height: 35px;
+	line-height: 35px;
+}
+
+.lHeads{
+	border-bottom: 2px solid #083747;
+	border-top: 2px solid #083747;
+	width: 100%;
+	display: inline-block;
+	height: 25px;
+	font-size: 13px;
+	background-color: #77bdef;
+	white-space: nowrap;
+	overflow: hidden;
+}
+
+	.vehicleB .lHeads{
+		background-color: #ede97b;
+	}
+
+	.lHeads span{
+		width: 25px;
+		height: 20px;
+		background-color: #083747;
+		color: #fff;
+		padding-top: 5px;
+		text-align: center;
+		display: inline-block;
+		font-size: 16px;
+		vertical-align: middle;
+	}
+
+	.vehicleB .lHeads span{
+		background-color: #FBBC05;
+		color: #083747;
+	}
+
+.infoBoxes{
+	width: 100%;
+}	
+
+	
+	.infoBoxes div{
+		padding-left: 5px;
+		padding-right: 5px;
+		padding-bottom: 5px;
+		background-color: #77bdef;
+		box-sizing: border-box;
+	}
+
+	.vehicleB .infoBoxes div{
+		background-color: #ede97b;
+	}
+
+	.circumstances .infoBoxes div{
+		background-color: #fff;
+	}
+
+		.infoBoxes div div{
+			padding-right: 0px;
+		}
+
+		.infoBoxes div label{
+			display: inline-block;
+			width: 100%;
+			height: 25px;
+			line-height: 25px;
+			color: #083747;
+		}
+
+		.infoBoxes div input, .infoBoxes div select{
+			width: 100%;
+		}
+
+	.infoBoxes textarea{
+		width: 100%;
+		min-height: 100px;
+		max-height: 100px;
+		background-color: #77bdef;
+		color: #083747;
+	}
+
+	.vehicleB .infoBoxes textarea{
+		background-color: #ede97b;
+	}
+
+	.infoBoxes .col-6{
+		padding-left: 0px;
+		box-sizing: border-box;
+		height: auto;	
+	}
+
+		.infoBoxes .col-6:first-child{
+			border-right: 2px solid #083747;	
+		}
+
+		.infoBoxes .col-6 .regN{
+			margin-top: 44px;	
+		}
+
+		.infoBoxes .col-6 label{
+			border-bottom: 2px solid #083747;
+			display: block;
+			width: 100%;
+			text-align: center;
+		}
+
+			.infoBoxes .col-6 div label{
+				border-bottom: none;
+				text-align: left;
+				display: inline-block;
+				width: 100%;
+				padding-left: 5px;
+				height: auto;				
+				line-height: 18px;
+			}
+
+			.infoBoxes .col-6 div input{
+				width: 100%;
+			}
+
+
+			.infoBoxes .multiTerms label{
+				display: inline;
+			}
+
+			.infoBoxes .multiTerms input{
+				width: 130px;
+			}
+
+			.infoBoxes .checkTerm{
+				text-align: center;
+			}
+
+			.infoBoxes .checkTerm label{
+				width: 100%;
+				height: auto;
+				text-align: left;
+			}
+
+			.infoBoxes .checkTerm span{
+				color: #083747;
+			}
+
+			.infoBoxes .checkTerm input{
+				width: auto;
+			}
+	
+	.clh{
+		height: 60px;
+	}
+
+		.vWArr{
+			width: 20px;
+			float: left;
+			text-align: center;
+			padding: 0px!important;
+		}
+
+			.vWArr:last-child{
+				float: right;
+			}
+
+		.clarification{
+			box-sizing: border-box;
+			text-align: center;
+			float: left;
+			width: calc(100% - 40px);
+			padding:0px 10px 0px 10px;
+		}
+
+	.infoBoxes .checkData span{
+		width: 35px;
+		height: 25px;
+		display: inline-block;
+	}
+
+	.infoBoxes .checkData input{
+		width: auto;
+	}
+
+	.infoBoxes .checkData label{
+		width: calc( 100% - 78px );	
+		margin-top: -8px;
+		height: auto;
+		text-align: center;
+		color: #083747;
+		vertical-align: middle;
+	}
+
+	.infoBoxes .checkData p{
+		margin: 0px;
+		text-align: center;
+	}
+
+	.infoBoxes .checkData.last input{
+		width: 30px;
+		height: 30px;
+	}
+
+	.infoBoxes .checkData.last{
+		border-bottom: 2px solid #083747;
+		border-top: 2px solid #083747;
+	}
+#saveAuto{
+	padding: 10px 15px;
+    border:none;
+    border-radius: 5px;
+    background-color: #286090;
+    color: #fff;
+}
+
+	#saveAuto:hover{
+		cursor:pointer;
+		background-color: #2E6DA4; 
+	}

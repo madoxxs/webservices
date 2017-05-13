@@ -1,0 +1,25 @@
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\GlobalClasses\bin\Debug\GlobalClasses.dll.config
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\GlobalClasses\bin\Debug\GlobalClasses.dll
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\GlobalClasses\bin\Debug\GlobalClasses.pdb
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\GlobalClasses\bin\Debug\EntityFramework.dll
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\GlobalClasses\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\GlobalClasses\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\GlobalClasses\bin\Debug\EntityFramework.xml
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\GlobalClasses\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\GlobalClasses\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\GlobalClasses\obj\Debug\GlobalClasses.dll
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\GlobalClasses\obj\Debug\GlobalClasses.pdb
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\GlobalClasses\bin\Debug\System.Web.Http.dll
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\GlobalClasses\bin\Debug\System.Net.Http.Formatting.dll
+D:\diplomna\DiplomnaRabotaSimeon\GlobalClasses\bin\Debug\GlobalClasses.dll.config
+D:\diplomna\DiplomnaRabotaSimeon\GlobalClasses\bin\Debug\GlobalClasses.dll
+D:\diplomna\DiplomnaRabotaSimeon\GlobalClasses\bin\Debug\GlobalClasses.pdb
+D:\diplomna\DiplomnaRabotaSimeon\GlobalClasses\bin\Debug\EntityFramework.dll
+D:\diplomna\DiplomnaRabotaSimeon\GlobalClasses\bin\Debug\EntityFramework.SqlServer.dll
+D:\diplomna\DiplomnaRabotaSimeon\GlobalClasses\bin\Debug\Newtonsoft.Json.dll
+D:\diplomna\DiplomnaRabotaSimeon\GlobalClasses\bin\Debug\EntityFramework.xml
+D:\diplomna\DiplomnaRabotaSimeon\GlobalClasses\bin\Debug\EntityFramework.SqlServer.xml
+D:\diplomna\DiplomnaRabotaSimeon\GlobalClasses\bin\Debug\Newtonsoft.Json.xml
+D:\diplomna\DiplomnaRabotaSimeon\GlobalClasses\obj\Debug\GlobalClasses.csprojResolveAssemblyReference.cache
+D:\diplomna\DiplomnaRabotaSimeon\GlobalClasses\obj\Debug\GlobalClasses.dll
+D:\diplomna\DiplomnaRabotaSimeon\GlobalClasses\obj\Debug\GlobalClasses.pdb

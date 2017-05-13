@@ -1,0 +1,54 @@
+
+    #formContainer {
+        width: 100%;
+        font-size: 20px;
+    }
+
+	 #headerContainer{
+        width: 100%;
+        text-align: center;
+    }
+	
+    #innerContainer {
+        width: 511px;
+        margin: auto;
+        padding: 10px;
+    }
+
+    .inputRowWrapper{
+
+        margin: 5px;
+        display: block;
+        padding: 5px;
+        position: relative;
+    }
+    .inputRowWrapper label{
+        display: block;
+        width: 238px;
+        height: 23px;
+        float: left;
+
+        position: relative;
+
+    }
+    .inputRowWrapper input{
+       display: block;
+        width: 240px;
+        height: 21px;
+        position: relative;
+
+    }
+    #formChangePasswordHeader{
+        text-align: center;
+    }
+    .buttons{
+        width: 320px;
+        margin: auto;
+    }
+    .buttons input{
+
+        display: inline-block;
+        width: 150px;
+        height: 44px;
+        text-align: center;
+    }

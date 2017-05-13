@@ -1,0 +1,28 @@
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\Repository\bin\Debug\Repository.dll.config
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\Repository\bin\Debug\Repository.dll
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\Repository\bin\Debug\Repository.pdb
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\Repository\bin\Debug\EntityFramework.dll
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\Repository\bin\Debug\GlobalClasses.dll
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\Repository\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\Repository\bin\Debug\GlobalClasses.pdb
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\Repository\bin\Debug\EntityFramework.xml
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\Repository\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\Repository\obj\Debug\Repository.dll
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\Repository\obj\Debug\Repository.pdb
+D:\diplomna\DiplomnaRabotaSimeon\Repository\bin\Debug\Repository.dll.config
+D:\diplomna\DiplomnaRabotaSimeon\Repository\bin\Debug\Repository.dll
+D:\diplomna\DiplomnaRabotaSimeon\Repository\bin\Debug\Repository.pdb
+D:\diplomna\DiplomnaRabotaSimeon\Repository\bin\Debug\EntityFramework.dll
+D:\diplomna\DiplomnaRabotaSimeon\Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\diplomna\DiplomnaRabotaSimeon\Repository\bin\Debug\GlobalClasses.dll
+D:\diplomna\DiplomnaRabotaSimeon\Repository\bin\Debug\Newtonsoft.Json.dll
+D:\diplomna\DiplomnaRabotaSimeon\Repository\bin\Debug\GlobalClasses.pdb
+D:\diplomna\DiplomnaRabotaSimeon\Repository\bin\Debug\EntityFramework.xml
+D:\diplomna\DiplomnaRabotaSimeon\Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\diplomna\DiplomnaRabotaSimeon\Repository\bin\Debug\Newtonsoft.Json.xml
+D:\diplomna\DiplomnaRabotaSimeon\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+D:\diplomna\DiplomnaRabotaSimeon\Repository\obj\Debug\Repository.dll
+D:\diplomna\DiplomnaRabotaSimeon\Repository\obj\Debug\Repository.pdb

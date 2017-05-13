@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DiplomnaRabotaModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Auto">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="OwnerFullName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="OwnerAddress" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="OwnerPhone" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="MPSModel" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="MPSNumber" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="TrailerNumber" Type="nvarchar" MaxLength="50" />
+    <Property Name="InsurerCompany" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="InsurerPolicyNumber" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="InsurerGreenCardNumber" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="ValidFrom" Type="date" Nullable="false" />
+    <Property Name="ValidTo" Type="date" Nullable="false" />
+    <Property Name="InsurerAgency" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="InsurerAddress" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="InsurerPhone" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="LeaderFullName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="LeaderBornDate" Type="date" Nullable="false" />
+    <Property Name="LeaderAddress" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="LeaderPhone" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="LeaderCertificate" Type="int" Nullable="false" />
+    <Property Name="LeaderCategory" Type="nvarchar" MaxLength="10" Nullable="false" />
+    <Property Name="LeaderCertificateValidTo" Type="date" Nullable="false" />
+    <Property Name="PolicyNumber" Type="int" Nullable="false" />
+    <Property Name="VisibleDamage" Type="nvarchar" MaxLength="200" Nullable="false" />
+    <Property Name="AttachFile" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Circumstances" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="CreateDate" Type="datetime" Nullable="false" />
+    <Property Name="IsGuilty" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Circumstances">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="Text" Type="nvarchar" MaxLength="200" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Estate">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="FullName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="EGN" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="MobilePhone" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="Email" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Address" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="ModifiedAt" Type="datetime" />
+    <Property Name="CreatedAt" Type="datetime" Nullable="false" />
+    <Property Name="AttachFile" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Company" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="Area" Type="int" Nullable="false" />
+    <Property Name="InsuranceAmount" Type="float" Nullable="false" />
+    <Property Name="Kind" Type="nvarchar" MaxLength="20" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Health">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="FullName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="EGN" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="MobilePhone" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="Email" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Address" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="DocumentNumber" Type="int" Nullable="false" />
+    <Property Name="IBAN" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="ModifiedAt" Type="datetime" />
+    <Property Name="CreatedAt" Type="datetime" Nullable="false" />
+    <Property Name="AttachFile" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="UserId" Type="int" Nullable="false" />
+    <Property Name="Company" Type="nvarchar" MaxLength="20" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Sessions">
+    <Key>
+      <PropertyRef Name="SessionId" />
+    </Key>
+    <Property Name="SessionId" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="StartTime" Type="smalldatetime" />
+    <Property Name="ExpirationTime" Type="smalldatetime" Nullable="false" />
+    <Property Name="UserId" Type="int" />
+  </EntityType>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="IsEnabled" Type="bit" Nullable="false" />
+    <Property Name="CanChgPass" Type="bit" />
+    <Property Name="Name" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="FullName" Type="nvarchar" MaxLength="124" Nullable="false" />
+    <Property Name="Address" Type="nvarchar" MaxLength="256" />
+    <Property Name="PassHash" Type="nvarchar" MaxLength="128" />
+    <Property Name="PassDateChng" Type="datetime" Nullable="false" />
+    <Property Name="UserLastLogin" Type="datetime" Nullable="false" />
+    <Property Name="ModifiedAt" Type="datetime" Nullable="false" />
+    <Property Name="CreatedAt" Type="datetime" Nullable="false" />
+    <Property Name="UserId" Type="int" Nullable="false" />
+    <Property Name="Email" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <Function Name="fn_diagramobjects" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="true" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" ReturnType="int" />
+  <Function Name="sp_alterdiagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+    <Parameter Name="version" Type="int" Mode="In" />
+    <Parameter Name="definition" Type="varbinary(max)" Mode="In" />
+  </Function>
+  <Function Name="sp_creatediagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+    <Parameter Name="version" Type="int" Mode="In" />
+    <Parameter Name="definition" Type="varbinary(max)" Mode="In" />
+  </Function>
+  <Function Name="sp_dropdiagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_helpdiagramdefinition" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_helpdiagrams" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_renamediagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+    <Parameter Name="new_diagramname" Type="nvarchar" Mode="In" />
+  </Function>
+  <Function Name="sp_upgraddiagrams" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <EntityContainer Name="DiplomnaRabotaModelStoreContainer">
+    <EntitySet Name="Auto" EntityType="Self.Auto" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Circumstances" EntityType="Self.Circumstances" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Estate" EntityType="Self.Estate" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Health" EntityType="Self.Health" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Sessions" EntityType="Self.Sessions" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Users" EntityType="Self.Users" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

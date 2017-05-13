@@ -1,0 +1,82 @@
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\tester\bin\Debug\roslyn\csc.exe
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\tester\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\tester\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\tester\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\tester\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\tester\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\tester\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\tester\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\tester\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\tester\bin\Debug\roslyn\vbc.exe
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\tester\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\tester\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\tester\bin\Debug\tester.exe.config
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\tester\bin\Debug\tester.exe
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\tester\bin\Debug\tester.pdb
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\tester\bin\Debug\BusinessLayer.dll
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\tester\bin\Debug\DiplomnaRabotaSimeon.dll
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\tester\bin\Debug\EntityFramework.dll
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\tester\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\tester\bin\Debug\GlobalClasses.dll
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\tester\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\tester\bin\Debug\Repository.dll
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\tester\bin\Debug\System.Web.Http.dll
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\tester\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\tester\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\tester\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\tester\bin\Debug\System.Web.Cors.dll
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\tester\bin\Debug\BusinessLayer.pdb
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\tester\bin\Debug\DiplomnaRabotaSimeon.pdb
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\tester\bin\Debug\GlobalClasses.pdb
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\tester\bin\Debug\Repository.pdb
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\tester\bin\Debug\EntityFramework.xml
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\tester\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\tester\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\tester\bin\Debug\System.Web.Http.xml
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\tester\bin\Debug\System.Web.Http.Cors.xml
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\tester\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\tester\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\tester\obj\Debug\tester.csprojResolveAssemblyReference.cache
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\tester\obj\Debug\tester.exe
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\tester\obj\Debug\tester.pdb
+D:\diplomna\DiplomnaRabotaSimeon\tester\bin\Debug\roslyn\csc.exe
+D:\diplomna\DiplomnaRabotaSimeon\tester\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\diplomna\DiplomnaRabotaSimeon\tester\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\diplomna\DiplomnaRabotaSimeon\tester\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+D:\diplomna\DiplomnaRabotaSimeon\tester\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\diplomna\DiplomnaRabotaSimeon\tester\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+D:\diplomna\DiplomnaRabotaSimeon\tester\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+D:\diplomna\DiplomnaRabotaSimeon\tester\bin\Debug\roslyn\System.Collections.Immutable.dll
+D:\diplomna\DiplomnaRabotaSimeon\tester\bin\Debug\roslyn\System.Reflection.Metadata.dll
+D:\diplomna\DiplomnaRabotaSimeon\tester\bin\Debug\roslyn\vbc.exe
+D:\diplomna\DiplomnaRabotaSimeon\tester\bin\Debug\roslyn\VBCSCompiler.exe
+D:\diplomna\DiplomnaRabotaSimeon\tester\bin\Debug\roslyn\VBCSCompiler.exe.config
+D:\diplomna\DiplomnaRabotaSimeon\tester\bin\Debug\tester.exe.config
+D:\diplomna\DiplomnaRabotaSimeon\tester\bin\Debug\tester.exe
+D:\diplomna\DiplomnaRabotaSimeon\tester\bin\Debug\tester.pdb
+D:\diplomna\DiplomnaRabotaSimeon\tester\bin\Debug\BusinessLayer.dll
+D:\diplomna\DiplomnaRabotaSimeon\tester\bin\Debug\DiplomnaRabotaSimeon.dll
+D:\diplomna\DiplomnaRabotaSimeon\tester\bin\Debug\EntityFramework.dll
+D:\diplomna\DiplomnaRabotaSimeon\tester\bin\Debug\EntityFramework.SqlServer.dll
+D:\diplomna\DiplomnaRabotaSimeon\tester\bin\Debug\GlobalClasses.dll
+D:\diplomna\DiplomnaRabotaSimeon\tester\bin\Debug\Newtonsoft.Json.dll
+D:\diplomna\DiplomnaRabotaSimeon\tester\bin\Debug\Repository.dll
+D:\diplomna\DiplomnaRabotaSimeon\tester\bin\Debug\System.Web.Http.dll
+D:\diplomna\DiplomnaRabotaSimeon\tester\bin\Debug\System.Web.Http.Cors.dll
+D:\diplomna\DiplomnaRabotaSimeon\tester\bin\Debug\System.Web.Http.WebHost.dll
+D:\diplomna\DiplomnaRabotaSimeon\tester\bin\Debug\System.Net.Http.Formatting.dll
+D:\diplomna\DiplomnaRabotaSimeon\tester\bin\Debug\System.Web.Cors.dll
+D:\diplomna\DiplomnaRabotaSimeon\tester\bin\Debug\BusinessLayer.pdb
+D:\diplomna\DiplomnaRabotaSimeon\tester\bin\Debug\DiplomnaRabotaSimeon.pdb
+D:\diplomna\DiplomnaRabotaSimeon\tester\bin\Debug\GlobalClasses.pdb
+D:\diplomna\DiplomnaRabotaSimeon\tester\bin\Debug\Repository.pdb
+D:\diplomna\DiplomnaRabotaSimeon\tester\bin\Debug\EntityFramework.xml
+D:\diplomna\DiplomnaRabotaSimeon\tester\bin\Debug\EntityFramework.SqlServer.xml
+D:\diplomna\DiplomnaRabotaSimeon\tester\bin\Debug\Newtonsoft.Json.xml
+D:\diplomna\DiplomnaRabotaSimeon\tester\bin\Debug\System.Web.Http.xml
+D:\diplomna\DiplomnaRabotaSimeon\tester\bin\Debug\System.Web.Http.Cors.xml
+D:\diplomna\DiplomnaRabotaSimeon\tester\bin\Debug\System.Web.Http.WebHost.xml
+D:\diplomna\DiplomnaRabotaSimeon\tester\bin\Debug\System.Net.Http.Formatting.xml
+D:\diplomna\DiplomnaRabotaSimeon\tester\obj\Debug\tester.csprojResolveAssemblyReference.cache
+D:\diplomna\DiplomnaRabotaSimeon\tester\obj\Debug\tester.exe
+D:\diplomna\DiplomnaRabotaSimeon\tester\obj\Debug\tester.pdb

@@ -1,0 +1,422 @@
+﻿<div>
+	<div class="col-12 policyNo">
+	  <label>Номер на протокол:</label>
+	  <input data-name="PolicyNumber"> 
+	</div>
+	<div class="col-4 vehicleA">
+		<h3>ПРЕВОЗНО СРЕДСТВО А</h3>
+		<div>
+			<label class="lHeads">
+				<span>1</span>
+				ЗАСТРАХОВАН ПРИТЕЖАТЕЛ на застрахователна полица
+			</label>
+			<div class="infoBoxes">
+				<div>
+					<label>Име и фамилия</label>
+					<input data-name="OwnerFullName" required>
+				</div>
+				<div>
+					<label>Адрес</label>
+					<input data-name="OwnerAddress">
+				</div>
+				<div>
+					<label>Телефон</label>
+					<input data-name="OwnerPhone" required>
+				</div>
+			</div>
+		</div>
+		
+		
+		<div>
+			<label class="lHeads">
+				<span>2</span>
+				ПРЕВОЗНО СРЕДСТВО
+			</label>
+			<div class="infoBoxes">
+				<div class="col-6">
+					<label>МПС</label>
+					<div>
+						<label>Модел, марка</label>
+						<input data-name="MPSModel">
+					</div>
+					<div>
+						<label>Регистрационен №</label>
+						<input data-name="MPSNumber">
+					</div>
+				</div>
+				<div class="col-6">
+					<label>Ремарке</label>
+					<div class="regN">
+						<label>Регистрационен №</label>
+						<input data-name="TrailerNumber">
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<div>
+			<label class="lHeads">
+				<span>3</span>
+				Застраховател(виж застрахователната сертификат)
+			</label>
+			<div class="infoBoxes">
+				<div>
+					<label>Име</label>
+					<select id="company">
+						<option value="">Избери</option>
+						<option value="levins">Levins</option>
+						<option value="bulins">Bulins</option>
+						<option value="euroins">Euroins</option>
+					</select>
+				</div>
+				<div class="longTerms">
+					<label>Застрахователна Полица №</label>
+					<input data-name="InsurerPolicyNumber">
+				</div>
+				<div>
+					<label>Зелена карта №</label>
+					<input data-name="InsurerGreenCardNumber">
+				</div>
+				<div class="multiTerms">
+					<label>Застрахователен сертификат или зелена карта валиден от:</label>
+					<input type="date" data-name="ValidFrom">
+					<label>до</label>
+					<input type="date" data-name="ValidTo">
+				</div>
+				<div class="longTerms">
+					<label>Агенция бюро/или брокер</label>
+					<input data-name="InsurerAgency">
+				</div>
+				<div>
+					<label>Адрес</label>
+					<input data-name="InsurerAddress">
+				</div>
+				<div>
+					<label>Телефон</label>
+					<input data-name="InsurerPhone">
+				</div>
+			</div>
+		</div>
+
+		<div>
+			<label class="lHeads">
+				<span>4</span>
+				Водач(провери в свидетелството за управление)
+			</label>
+			<div class="infoBoxes">
+				<div>
+					<label>Име и фамилия</label>
+					<input data-name="LeaderFullName">
+				</div>
+				<div>
+					<label>Дата на Раждане</label>
+					<input type="date" data-name="LeaderBornDate"> 
+				</div>
+				<div>
+					<label>Адрес</label>
+					<input data-name="LeaderAddress">
+				</div>
+				<div>
+					<label>Телефон</label>
+					<input data-name="LeaderPhone">
+				</div>
+				<div>
+					<label>Свителедство №</label>
+					<input data-name="LeaderCertificate">
+				</div>
+				<div>
+					<label>Категория (А, Б)</label>
+					<input data-name="LeaderCategory">
+				</div>
+				<div>
+					<label>Валидна до</label>
+					<input type="date" data-name="LeaderCertificateValidTo">
+				</div>
+			</div>
+		</div>
+
+		<div>
+			<label class="lHeads">
+				<span>5</span>
+				Видими щети по превозно средство "А"
+			</label>
+			<div class="infoBoxes">
+				<textarea id="textareaA"></textarea>
+			</div>
+		</div>
+
+		<div>
+			<label class="lHeads">
+				<span>6</span>
+				Забележка
+			</label>
+			<div class="infoBoxes">
+				<div ><label for="attach"><span>* Прикачи снимка:  </span></label><input id="attach" onchange="handleFileSelect(event)" type="file" name="attach" value="" ></div>
+			</div>
+		</div>
+		
+	</div>
+	
+	<div class="col-4 circumstances" style="height: 100%;">
+		
+	<h3>ОБСТОЯТЕЛСТВА</h3>
+		<div>
+			<div class="infoBoxes">
+				<div class="clh">
+					<div class="vWArr"><span >&darr; A</span></div>
+					<div><span class="clarification">Поставете "Х" в съответното квадратче с цел уточняване на схемата на ПТП *зачеркнете където е необходимо</span></div>
+					<div class="vWArr" ><span >&darr; Б</span></div>
+				</div>
+				<div class="checkData">
+					<span><input type="checkbox">1</span>
+					<label>паркирано/ в спряло състояние</label>
+					<span>1<input type="checkbox"></span>
+				</div>
+				<div class="checkData">
+					<span><input type="checkbox">2</span>
+					<label>при тръгване/ при отваряне на врата</label>
+					<span>2<input type="checkbox"></span>
+				</div>
+				<div class="checkData">
+					<span><input type="checkbox">3</span>
+					<label>при паркиране</label>
+					<span>3<input type="checkbox"></span>
+				</div>
+				<div class="checkData">
+					<span><input type="checkbox">4</span>
+					<label>при излизане от паркинг, частен терен, частен път</label>
+					<span>4<input type="checkbox"></span>
+				</div>
+				<div class="checkData">
+					<span><input type="checkbox">5</span>
+					<label>при влизане от паркинг, частен терен, частен път</label>
+					<span>5<input type="checkbox"></span>
+				</div>
+				<div class="checkData">
+					<span><input type="checkbox">6</span>
+					<label>при влизане в кръгово движение</label>
+					<span>6<input type="checkbox"></span>
+				</div>
+				<div class="checkData">
+					<span><input type="checkbox">7</span>
+					<label>в кръстовище с кръгово движение</label>
+					<span>7<input type="checkbox"></span>
+				</div>
+				
+				<div class="checkData">
+					<span><input type="checkbox">8</span>
+					<label>удар в задната част на друго превозно средство при движение в една посока и в същата лента</label>
+					<span>8<input type="checkbox"></span>
+				</div>
+
+				<div class="checkData">
+					<span><input type="checkbox">9</span>
+					<label>движение в една посока и различни ленти</label>
+					<span>9<input type="checkbox"></span>
+				</div>
+				
+				<div class="checkData">
+					<span><input type="checkbox">10</span>
+					<label>при смяна на лентите</label>
+					<span>10<input type="checkbox"></span>
+				</div>
+				
+				<div class="checkData">
+					<span><input type="checkbox">11</span>
+					<label>при изпреварване</label>
+					<span>11<input type="checkbox"></span>
+				</div>
+				
+				<div class="checkData">
+					<span><input type="checkbox">12</span>
+					<label>при завиване надясно</label>
+					<span>12<input type="checkbox"></span>
+				</div>
+				
+				<div class="checkData">
+					<span><input type="checkbox">13</span>
+					<label>при завиване наляво</label>
+					<span>13<input type="checkbox"></span>
+				</div>
+				
+				<div class="checkData">
+					<span><input type="checkbox">14</span>
+					<label>при обратен завой</label>
+					<span>14<input type="checkbox"></span>
+				</div>
+				
+				<div class="checkData">
+					<span><input type="checkbox">15</span>
+					<label>навлизане в лентата за насрещно движение</label>
+					<span>15<input type="checkbox"></span>
+				</div>
+				
+				<div class="checkData">
+					<span><input type="checkbox">16</span>
+					<label>идвайки от дясно(на кръщовище)</label>
+					<span>16<input type="checkbox"></span>
+				</div>
+				
+				<div class="checkData">
+					<span><input type="checkbox">17</span>
+					<label>неспазване на знак за предимство или червена светлина</label>
+					<span>17<input type="checkbox"></span>
+				</div>
+				
+				<div class="checkData last">
+					<p>Да се подпише от двамата водачи.</p>
+					<p><small>Не служи за премахване на отговорността.</small></p>					
+					<p><small>Съдържа дани за самоличността и фактите, необходими за бързото изплащане на застрахователното обезщетение.</small></p>
+				</div>
+			</div>
+		</div>
+
+	</div>
+
+
+	<div class="col-4 vehicleB">
+		
+		<h3>ПРЕВОЗНО СРЕДСТВО Б</h3>
+		<div>
+			<label class="lHeads">
+				<span>1</span>
+				ЗАСТРАХОВАН ПРИТЕЖАТЕЛ на застрахователна полица
+			</label>
+			<div class="infoBoxes">
+				<div>
+					<label>Име и фамилия</label>
+					<input data-name2="OwnerFullName">
+				</div>
+				<div>
+					<label>Адрес</label>
+					<input data-name2="OwnerAddress">
+				</div>
+				<div>
+					<label>Телефон</label>
+					<input data-name2="OwnerPhone">
+				</div>
+			</div>
+		</div>
+		
+		
+		<div>
+			<label class="lHeads">
+				<span>2</span>
+				ПРЕВОЗНО СРЕДСТВО
+			</label>
+			<div class="infoBoxes">
+				<div class="col-6">
+					<label>МПС</label>
+					<div>
+						<label>Модел, марка</label>
+						<input data-name2="MPSModel">
+					</div>
+					<div>
+						<label>Регистрационен №</label>
+						<input data-name2="MPSNumber">
+					</div>
+				</div>
+				<div class="col-6">
+					<label>Ремарке</label>
+					<div class="regN">
+						<label>Регистрационен №</label>
+						<input data-name2="TrailerNumber">
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<div>
+			<label class="lHeads">
+				<span>3</span>
+				Застраховател(виж застрахователната сертификат)
+			</label>
+			<div class="infoBoxes">
+				<div>
+					<label>Име</label>
+					<input data-name2="InsurerCompany">
+				</div>
+				<div class="longTerms">
+					<label>Застрахователна Полица №</label>
+					<input data-name2="InsurerPolicyNumber">
+				</div>
+				<div>
+					<label>Зелена карта №</label>
+					<input data-name2="InsurerGreenCardNumber">
+				</div>
+				<div class="multiTerms">
+					<label>Застрахователен сертификат или зелена карта валиден от:</label>
+					<input type="date" data-name2="ValidFrom">
+					<label>до</label>
+					<input type="date" data-name2="ValidTo">
+				</div>
+				<div class="longTerms">
+					<label>Агенция бюро/или брокер</label>
+					<input data-name2="InsurerAgency">
+				</div>
+				<div>
+					<label>Адрес</label>
+					<input data-name2="InsurerAddress">
+				</div>
+				<div>
+					<label>Телефон</label>
+					<input data-name2="InsurerPhone">
+				</div>
+			</div>
+		</div>
+
+		<div>
+			<label class="lHeads">
+				<span>4</span>
+				Водач(провери в свидетелството за управление)
+			</label>
+			<div class="infoBoxes">
+				<div>
+					<label>Име и фамилия</label>
+					<input data-name2="LeaderFullName">
+				</div>
+				<div>
+					<label>Дата на Раждане</label>
+					<input type="date" data-name2="LeaderBornDate"> 
+				</div>
+				<div>
+					<label>Адрес</label>
+					<input data-name2="LeaderAddress">
+				</div>
+				<div>
+					<label>Телефон</label>
+					<input data-name2="LeaderPhone">
+				</div>
+				<div>
+					<label>Свителедство №</label>
+					<input data-name2="LeaderCertificate">
+				</div>
+				<div>
+					<label>Категория (А, Б)</label>
+					<input data-name2="LeaderCategory">
+				</div>
+				<div>
+					<label>Валидна до</label>
+					<input type="date" data-name2="LeaderCertificateValidTo">
+				</div>
+			</div>
+		</div>
+
+		<div>
+			<label class="lHeads">
+				<span>5</span>
+				Видими щети по превозно средство "Б"
+			</label>
+			<div class="infoBoxes">
+				<textarea id="textareaB"></textarea>
+			</div>
+		</div>
+
+		
+		
+	</div>
+
+</div>
+<div class="col-lg-12 buttons">
+	<button id="saveAuto" type="button" name="commit">Запази</button>
+</div>

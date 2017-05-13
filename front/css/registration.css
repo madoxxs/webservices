@@ -1,0 +1,160 @@
+#formContainer{
+    width: 100%;
+    font-size: 20px;
+	margin-top:50px;
+}
+
+#headerContainer,.headerContainerDocument{
+    background-color: #083747;
+    color: #D0D7DB;
+    margin:0px;
+    padding:15px;
+    border-bottom: 3px solid #fff;
+}
+
+.headerContainer{
+	background-color: #083747;
+    color: #D0D7DB;
+    margin:0px;
+    padding:5px 15px;
+    border-bottom: 3px solid #fff;
+	border-top: 3px solid #fff;
+	margin-bottom:20px;
+}
+
+#iskane{
+	text-align:left;
+}
+
+    #headerContainer span{
+        display: inline-block;
+        height: 35px;
+        line-height: 35px;
+        font-size: 20px;
+		width:50%;
+    }
+
+	
+	
+	#headerStatistic span,#headerStatisticLeader span{
+		display: inline-block;
+        height: 50px;
+        line-height: 50px;
+        font-size: 24px;
+		width:100%;
+		text-align:center;
+	}
+#innerContainer{
+    background-color: rgba(208, 215, 219,0.6);
+    color: #083747;
+    padding:15px;
+}
+
+.inputRowWrapper{
+    width: 100%;
+}
+
+    .inputRowWrapper label{
+        width: 35%;
+        padding-right: 5%;
+        display: inline-block;
+        text-align: right;        
+        font-size: 18px;
+    }
+
+	.chart span{
+		display:inline-block;
+		height:40px;
+		line-height:40px;
+		font-size:18px;
+		float:left;
+		width:50%;
+		text-align:center;
+	}
+	
+	.statisticDiagrams{
+	width:100%;
+	}
+	
+	.chart{
+		height:40px;
+	}
+	
+	.chart div{
+		float:left;
+		background-color:#286090;
+		height:30px;
+		margin-top:5px;
+		width:40%;
+		color:#fff;
+		padding-left:5px;
+		line-height:30px;
+		box-sizing:border-box;
+	}
+	
+    .inputRowWrapper input, .inputRowWrapper span ,.inputRowWrapper select {
+        width:58%;
+        height: 35px;
+        border-radius: 5px;
+        border:none;
+		padding-left:2%;
+        margin-bottom: 20px;
+    }
+
+        .inputRowWrapper:first-child{
+            margin-top: 15px;
+        }
+
+.buttons{
+	box-sizing:border-box;
+    text-align: right;
+    background-color: #083747;
+    padding: 15px;
+    border-top: 3px solid #fff;
+}
+
+
+    .buttons button,.inputRowWrapper button,.preview button{
+        padding: 10px 15px;
+        border:none;
+        border-radius: 5px;
+        background-color: #286090;
+        color: #fff;
+    }
+
+        .buttons button:hover{
+            background-color: #2E6DA4;
+			cursor:pointer;
+        }
+	
+#nextAuto,#prevAuto{
+margin-right:26px;
+}
+	
+#edit{
+	padding: 10px 15px;
+    border:none;
+    border-radius: 5px;
+    background-color: #286090;
+    color: #fff;
+	float:right;
+}
+
+	#edit:hover{
+		cursor:pointer;
+		background-color: #2E6DA4; 
+	}
+
+#saveUpdate{
+	padding: 10px 15px;
+    border:none;
+    border-radius: 5px;
+    background-color: #449d44;
+    color: #fff;
+}
+
+	#saveUpdate:hover{
+		cursor:pointer;
+		background-color: #5CB85C;
+	}
+

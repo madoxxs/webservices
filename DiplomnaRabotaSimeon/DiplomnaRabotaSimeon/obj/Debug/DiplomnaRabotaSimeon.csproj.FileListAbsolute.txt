@@ -1,0 +1,82 @@
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\roslyn\csc.exe
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\roslyn\vbc.exe
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\roslyn\VBCSCompiler.exe
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\DiplomnaRabotaSimeon.dll.config
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\DiplomnaRabotaSimeon.dll
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\DiplomnaRabotaSimeon.pdb
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\BusinessLayer.dll
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\EntityFramework.dll
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\EntityFramework.SqlServer.dll
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\GlobalClasses.dll
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\Newtonsoft.Json.dll
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\System.Net.Http.Formatting.dll
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\System.Web.Cors.dll
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\System.Web.Http.Cors.dll
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\System.Web.Http.dll
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\System.Web.Http.WebHost.dll
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\Repository.dll
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\BusinessLayer.pdb
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\GlobalClasses.pdb
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\EntityFramework.xml
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\EntityFramework.SqlServer.xml
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\Newtonsoft.Json.xml
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\System.Web.Http.Cors.xml
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\System.Net.Http.Formatting.xml
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\System.Web.Http.xml
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\System.Web.Http.WebHost.xml
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\Repository.pdb
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\obj\Debug\DiplomnaRabotaSimeon.csprojResolveAssemblyReference.cache
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\obj\Debug\DiplomnaRabotaSimeon.dll
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\obj\Debug\DiplomnaRabotaSimeon.pdb
+D:\diplomna\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\roslyn\csc.exe
+D:\diplomna\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\diplomna\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\diplomna\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\diplomna\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\diplomna\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\diplomna\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\diplomna\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\roslyn\System.Collections.Immutable.dll
+D:\diplomna\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\roslyn\System.Reflection.Metadata.dll
+D:\diplomna\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\roslyn\vbc.exe
+D:\diplomna\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\roslyn\VBCSCompiler.exe
+D:\diplomna\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\roslyn\VBCSCompiler.exe.config
+D:\diplomna\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\DiplomnaRabotaSimeon.dll.config
+D:\diplomna\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\DiplomnaRabotaSimeon.dll
+D:\diplomna\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\DiplomnaRabotaSimeon.pdb
+D:\diplomna\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\BusinessLayer.dll
+D:\diplomna\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\EntityFramework.dll
+D:\diplomna\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\EntityFramework.SqlServer.dll
+D:\diplomna\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\GlobalClasses.dll
+D:\diplomna\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\diplomna\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\Newtonsoft.Json.dll
+D:\diplomna\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\Repository.dll
+D:\diplomna\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\System.Net.Http.Formatting.dll
+D:\diplomna\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\System.Web.Cors.dll
+D:\diplomna\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\System.Web.Http.Cors.dll
+D:\diplomna\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\System.Web.Http.dll
+D:\diplomna\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\System.Web.Http.WebHost.dll
+D:\diplomna\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\BusinessLayer.pdb
+D:\diplomna\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\GlobalClasses.pdb
+D:\diplomna\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\Repository.pdb
+D:\diplomna\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\EntityFramework.xml
+D:\diplomna\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\EntityFramework.SqlServer.xml
+D:\diplomna\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\diplomna\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\Newtonsoft.Json.xml
+D:\diplomna\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\System.Web.Http.Cors.xml
+D:\diplomna\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\System.Net.Http.Formatting.xml
+D:\diplomna\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\System.Web.Http.xml
+D:\diplomna\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\bin\System.Web.Http.WebHost.xml
+D:\diplomna\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\obj\Debug\DiplomnaRabotaSimeon.csprojResolveAssemblyReference.cache
+D:\diplomna\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\obj\Debug\DiplomnaRabotaSimeon.dll
+D:\diplomna\DiplomnaRabotaSimeon\DiplomnaRabotaSimeon\obj\Debug\DiplomnaRabotaSimeon.pdb

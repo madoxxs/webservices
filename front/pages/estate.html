@@ -1,0 +1,42 @@
+<div class="col-3" style="height:100%"></div>
+<div class="col-6">
+<div id="formContainer">
+	<div id="headerContainer"><span>Имуществено застраховане!</span>
+	<p id="iskane">Полетата отбелязани с * са задължителни.Може да промените потребителските данни от профила.</p>
+	</div>
+	<div id="innerContainer">
+	          <div class="inputRowWrapper"><label for="area"><span>* Разгърната площ на имота: </span></label><input id="area" type="text" name="area" value="" ></div>
+			  <div class="inputRowWrapper"><label for="price"><span>* Застрахователна сума: </span></label><input id="price" type="text" name="price" value="" ></div>
+			  <div class="inputRowWrapper"><label for="name"><span>* Имена: </span></label><input  id="name" type="text" name="name" value="" disabled="disabled"></div>
+			  <div class="inputRowWrapper"><label for="egn"><span>* Егн: </span></label><input id="egn" type="text" name="egn" value="" ></div>
+			  <div class="inputRowWrapper"><label for="address"><span>* Адрес:  </span></label><input id="address" type="text" name="address" value="" disabled="disabled"></div>
+			  <div class="inputRowWrapper"><label for="kind"></span>* Вид на имуществото: </span></label><input id="kind" type="text" name="kind" value="" ></div>
+			  <div class="inputRowWrapper"><label for="email"><span>* Имейл:  </span></label><input id="email" type="text" name="email" value="" disabled="disabled"></div>
+			  <div class="inputRowWrapper"><label for="phone"><span>* Мобилен номер:  </span></label><input id="phone" type="text" name="phone" value="" ></div>
+			  <div class="inputRowWrapper"><label for="company"><span>* Застрахователна компания:  </span></label>
+													<select id="company" class="form-control">
+														  <option value="">Избери</option>
+														  <option value="levins">Levins</option>
+														  <option value="bulins">Bulins</option>
+														  <option value="euroins">Euroins</option>
+													</select></div>
+			  <div class="inputRowWrapper"><label for="attach"><span>* Прикачи снимка на имота:  </span></label><input id="attach" onchange="handleFileSelect(event)" type="file" name="attach" value="" ></div>
+			<div class="buttons">
+				<button id="saveEstate" type="button" name="commit">Запази</button>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="col-3"></div>
+<script>
+
+$('.inputRowWrapper input').each(function(i, v){
+	if( $(v).attr("name") == "name" ){
+		$(v).val( userInfo["firstName"] + " " + userInfo["lastName"] );
+	}else{
+		var name = $(v).attr('name');
+		$(v).attr('value', userInfo[name]);	
+	}
+	
+});
+</script>

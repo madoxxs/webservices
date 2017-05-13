@@ -1,0 +1,32 @@
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\BusinessLayer\bin\Debug\GlobalClasses.dll
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\BusinessLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\BusinessLayer\bin\Debug\Repository.dll
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\BusinessLayer\bin\Debug\GlobalClasses.pdb
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\BusinessLayer\bin\Debug\Repository.pdb
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\BusinessLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Simeon\documents\visual studio 2015\Projects\DiplomnaRabotaSimeon\BusinessLayer\obj\Debug\BusinessLayer.pdb
+D:\diplomna\DiplomnaRabotaSimeon\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+D:\diplomna\DiplomnaRabotaSimeon\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\diplomna\DiplomnaRabotaSimeon\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\diplomna\DiplomnaRabotaSimeon\BusinessLayer\bin\Debug\EntityFramework.dll
+D:\diplomna\DiplomnaRabotaSimeon\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\diplomna\DiplomnaRabotaSimeon\BusinessLayer\bin\Debug\GlobalClasses.dll
+D:\diplomna\DiplomnaRabotaSimeon\BusinessLayer\bin\Debug\Newtonsoft.Json.dll
+D:\diplomna\DiplomnaRabotaSimeon\BusinessLayer\bin\Debug\Repository.dll
+D:\diplomna\DiplomnaRabotaSimeon\BusinessLayer\bin\Debug\GlobalClasses.pdb
+D:\diplomna\DiplomnaRabotaSimeon\BusinessLayer\bin\Debug\Repository.pdb
+D:\diplomna\DiplomnaRabotaSimeon\BusinessLayer\bin\Debug\EntityFramework.xml
+D:\diplomna\DiplomnaRabotaSimeon\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\diplomna\DiplomnaRabotaSimeon\BusinessLayer\bin\Debug\Newtonsoft.Json.xml
+D:\diplomna\DiplomnaRabotaSimeon\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+D:\diplomna\DiplomnaRabotaSimeon\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\diplomna\DiplomnaRabotaSimeon\BusinessLayer\obj\Debug\BusinessLayer.pdb
